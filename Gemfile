@@ -5,7 +5,7 @@ gem "cinch", "~> 1.0"
 gem "rspec", ">= 2.5.0"
 gem "rest-client"
 gem "nokogiri"
-gem "json"
+gem "json", ">= 2.3.0"
 gem "rake"
 # gem "twitter"
 gem 'pry'
