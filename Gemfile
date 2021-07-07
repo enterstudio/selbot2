@@ -9,7 +9,7 @@ gem "json"
 gem "rake"
 # gem "twitter"
 gem 'pry'
-gem 'octokit'
-gem 'data_mapper'
-gem 'dm-postgres-adapter'
-gem 'dm-ar-finders'
+gem 'octokit', '>= 4.6.0'
+gem 'data_mapper', '>= 1.2.0'
+gem 'dm-postgres-adapter', '>= 1.2.0'
+gem 'dm-ar-finders', '>= 1.2.0'
